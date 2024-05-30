@@ -1,5 +1,5 @@
+// src/games/progression.js
 
-// bin/progression.js
 import readlineSync from 'readline-sync';
 import { getRandomInt } from '../src/utils.js'; // Правильный путь к utils.js
 
