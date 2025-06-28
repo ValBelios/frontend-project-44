@@ -6,7 +6,7 @@
 
 ## Установка
 
-```bash
+bash
 git clone https://github.com/ValBelios/frontend-project-44.git
 cd frontend-project-44
 npm install
@@ -34,8 +34,3 @@ npm link
 
 [![asciinema](https://asciinema.org/a/Jqj5taaiTyX7nABqKdB0WnrkF.svg)](https://asciinema.org/a/Jqj5taaiTyX7nABqKdB0WnrkF)
 l
-
-
-
-
-
