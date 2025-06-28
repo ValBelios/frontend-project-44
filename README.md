@@ -21,3 +21,7 @@ npm link
 ## Демонстрация brain-calc
 
 [![asciicast](https://asciinema.org/a/8QmjHtUjNIhMnNQyfoNt9LNsg.svg)](https://asciinema.org/a/8QmjHtUjNIhMnNQyfoNt9LNsg)
+
+
+### Демонстрация игры brain-gcd
+[![asciinema](https://asciinema.org/a/NgsN8sIAtJihqejvM4voFgjJn.svg)](https://asciinema.org/a/NgsN8sIAtJihqejvM4voFgjJn)
