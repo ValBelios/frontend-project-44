@@ -11,3 +11,9 @@ git clone https://github.com/ValBelios/frontend-project-44.git
 cd frontend-project-44
 npm install
 npm link
+
+## Демонстрация
+
+[![asciicast](https://asciinema.org/a/WqXVx20ZSIXbW45FJak3BLUUv.svg)](https://asciinema.org/a/WqXVx20ZSIXbW45FJak3BLUUv)
+
+👉 [Смотреть запись на asciinema.org](https://asciinema.org/a/WqXVx20ZSIXbW45FJak3BLUUv)
