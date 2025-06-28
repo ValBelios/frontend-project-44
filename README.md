@@ -17,3 +17,7 @@ npm link
 [![asciicast](https://asciinema.org/a/WqXVx20ZSIXbW45FJak3BLUUv.svg)](https://asciinema.org/a/WqXVx20ZSIXbW45FJak3BLUUv)
 
 👉 [Смотреть запись на asciinema.org](https://asciinema.org/a/WqXVx20ZSIXbW45FJak3BLUUv)
+
+## Демонстрация brain-calc
+
+[![asciicast](https://asciinema.org/a/8QmjHtUjNIhMnNQyfoNt9LNsg.svg)](https://asciinema.org/a/8QmjHtUjNIhMnNQyfoNt9LNsg)
