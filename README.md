@@ -25,3 +25,6 @@ npm link
 
 ### Демонстрация игры brain-gcd
 [![asciinema](https://asciinema.org/a/NgsN8sIAtJihqejvM4voFgjJn.svg)](https://asciinema.org/a/NgsN8sIAtJihqejvM4voFgjJn)
+
+### Демонстрация игры brain-progression
+[![asciinema](https://asciinema.org/a/3NYVLCINIbrPFNJzMQAuXY9bw.svg)](https://asciinema.org/a/3NYVLCINIbrPFNJzMQAuXY9bw)
