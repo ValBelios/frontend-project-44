@@ -28,3 +28,9 @@ npm link
 
 ### Демонстрация игры brain-progression
 [![asciinema](https://asciinema.org/a/3NYVLCINIbrPFNJzMQAuXY9bw.svg)](https://asciinema.org/a/3NYVLCINIbrPFNJzMQAuXY9bw)
+
+
+### Демонстрация игры brain-prime
+
+[![asciinema](https://asciinema.org/a/Jqj5taaiTyX7nABqKdB0WnrkF.svg)](https://asciinema.org/a/Jqj5taaiTyX7nABqKdB0WnrkF)
+l
