@@ -1,4 +1,4 @@
-# Brain Games
+/# Brain Games
 
 [![Actions Status](https://github.com/ValBelios/frontend-project-44/workflows/hexlet-check/badge.svg)](https://github.com/ValBelios/frontend-project-44/actions)
 
