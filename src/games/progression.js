@@ -17,7 +17,6 @@ const buildProgression = (length, start, step) => {
   }
   return progression;
 };
-
 const generateRound = () => {
   const length = getRandomNumber(minLength, maxLength);
   const start = getRandomNumber(minRange, maxRange);
@@ -29,7 +28,6 @@ const generateRound = () => {
   const question = progression.join(' ');
   return [question, correctAnswer];
 };
-
 export default () => {
   run(description, generateRound);
 };
