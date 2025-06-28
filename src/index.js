@@ -19,6 +19,5 @@ export default (description, generateRound) => {
     }
     console.log('Correct!');
   }
-
   console.log(`Congratulations, ${playerName}!`);
 };
