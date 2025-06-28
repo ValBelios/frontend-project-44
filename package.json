@@ -5,7 +5,12 @@
   "description": "",
   "main": "index.js",
   "bin": {
-    "brain-games": "./bin/brain-games.js"
+    "brain-games": "./bin/brain-games.js",
+    "brain-even": "./bin/even-games.js",
+    "brain-calc": "./bin/calc-games.js",
+    "brain-gcd": "./bin/gcd-games.js",
+    "brain-prime": "./bin/prime-games.js",
+    "brain-progression": "./bin/progression-games.js"
   },
   "scripts": {
     "lint": "eslint .",
